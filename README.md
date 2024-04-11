@@ -1,1 +1,3 @@
 # odin-recipes
+
+This is a simple HTML drink recipe website.  This project is to demonstrate my skills in setting up site, using various HTML elements including headers, links, lists...
